@@ -111,8 +111,8 @@ aside img:nth-child(2) {
   height: 160px;
   border-radius: 50%;
   border: 4px solid transparent;
-  background: linear-gradient(#460000, #CD0404, #b84b4b) padding-box,
-    linear-gradient(260deg, #460000, #b84b4b) border-box;
+  background: linear-gradient(#460000, #CD0404, #1A3166) padding-box,
+    linear-gradient(260deg, #460000, #b84b4b, #1A3166) border-box;
 }
 aside p {
   font-size: 2rem;
